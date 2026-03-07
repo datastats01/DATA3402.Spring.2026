@@ -1,0 +1,3 @@
+rd.add_shape(Rectangle(2,2,10,5,name='shape_0'))
+rd.add_shape(Circle(20,8,4,name='shape_1'))
+rd.add_shape(Triangle(5,10,8,4,5,name='shape_2'))
